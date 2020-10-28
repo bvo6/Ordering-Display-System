@@ -1,6 +1,4 @@
-/*Bao Vo, G01102857
- * CS 262, Lab Section 207
- * Project 3
+/*Bao Vo
  */
 #include <stdio.h>
 #include <stdlib.h>
